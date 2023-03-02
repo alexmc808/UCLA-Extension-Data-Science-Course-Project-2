@@ -7,7 +7,6 @@ library(stringr)
 library(usmap)
 library(writexl)
 
-
 #Set working directory. 
 wd = setwd("C:/Users/alexm/OneDrive/Desktop/UCLA Data Science Certification/Projects/Project 2/ACS_DP02 data")
 
